@@ -1,0 +1,49 @@
+.navbar{
+background-color: #ffff00eb;
+text-align: center;
+font-size: 200px;
+}
+#red2{
+    border-radius: 5px;
+    text-align: center;
+    margin-top:30px;
+}
+#red3{
+    border-radius: 5px;
+    text-align: center;
+    margin-top:30px;
+     width:19%;
+}
+#red4{
+    border-radius: 5px;
+    text-align: center;
+    margin-top:30px;
+}
+#red5{
+    text-align: center;
+    margin-top:30px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    border:10px;
+     border: 1.5px solid transparent;
+    
+}
+#red6{
+    border-radius: 5px;
+    text-align: center;
+    margin-top:30px;
+    width:18%;
+}
+.blue12{
+    background-color: #ffff00eb;
+    font-style: italic;
+    border-radius: 25px;
+    font-size: 20px;  
+}
+#red8{
+    border-radius: 5px;
+    text-align: center;
+}
+
+
